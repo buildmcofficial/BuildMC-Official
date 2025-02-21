@@ -1,4 +1,4 @@
-<img src="BuildMC.png" alt="GitHub Banner" width="50%" />
+<img src="BuildMC.png" alt="GitHub Banner" width="10%" />
 
 <h1>Hi 👋, There</h1>
 <p>Best Minecraft Lifesteal SMP | Build.mc-dns.net</p>
